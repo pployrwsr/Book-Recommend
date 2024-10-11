@@ -10,6 +10,9 @@ h5{
     color: #A9B388
 }
 
+h2 {
+    color: #B99470
+}
 
 p { 
     color: #4A4947; 
@@ -23,7 +26,26 @@ h1 {
       }
 
 
-h3 h4 h5 {
+h3 {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+     
+    "wdth" 100;
+  }
+
+h4 {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+h5 {
     font-family: "Fredoka", sans-serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
@@ -38,3 +60,4 @@ p {
         font-weight: 400;
         font-style: normal;
   }   
+
