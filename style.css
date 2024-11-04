@@ -1,12 +1,13 @@
-body{
+body {
     background-color: #FAF7F0;
 }
 
 
-h1 { 
-    color: #5F6F52; }
+h1 {
+    color: #5F6F52;
+}
 
-h5{
+h5 {
     color: #A9B388
 }
 
@@ -14,50 +15,46 @@ h2 {
     color: #B99470
 }
 
-p { 
-    color: #4A4947; 
+p {
+    color: #4A4947;
 }
 
 
 h1 {
-        font-family: "Ubuntu", sans-serif;
-        font-weight: 700;
-        font-style: normal;
-      }
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
 
 
 h3 {
     font-family: "Fredoka", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
     font-variation-settings:
-     
-    "wdth" 100;
-  }
+
+        "wdth" 100;
+}
 
 h4 {
     font-family: "Fredoka", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
     font-variation-settings:
-      "wdth" 100;
-  }
+        "wdth" 100;
+}
 
 h5 {
     font-family: "Fredoka", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
     font-variation-settings:
-      "wdth" 100;
-  }
+        "wdth" 100;
+}
 
-  
+
 p {
-        font-family: "Itim", cursive;
-        font-weight: 400;
-        font-style: normal;
-  }   
-
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
